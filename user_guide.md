@@ -26,8 +26,11 @@ execute
 $ docker run -d -p 8080:80 -v /home/user:/var/www/html --name eboraas/apache-php 
 
 -d = executar em background
+
 -v = mapear um diretorio local dentro do container
+
 --name = nomear o container
+
 
 
 ### Criando uma imagem Docker personalizada ###

@@ -9,11 +9,17 @@ ex.:
 $ docker search apache
 
 NAME                        DESCRIPTION                                     STARS     OFFICIAL   AUTOMATED
+
 tomcat                      Apache Tomcat is an open source implementa...   1268                 [OK]       
+
 eboraas/apache-php          PHP5 on Apache (with SSL support), built o...   124                  [OK]
+
 eboraas/apache              Apache (with SSL support), built on Debian      70                   [OK]
+
 webdevops/php-apache        Apache with PHP-FPM (based on webdevops/php)    30                   [OK]
+
 nimmis/apache-php5          This is docker images of Ubuntu 14.04 LTS ...   27                   [OK]
+
 
 execute
 

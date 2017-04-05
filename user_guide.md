@@ -25,6 +25,10 @@ execute
 
 $ docker run -d -p 8080:80 -v /home/user:/var/www/html --name eboraas/apache-php 
 
+sempre o primeiro atributo é sobre o servidor local e ou segundo atributo é para o container
+
+-p = mapear porta 
+
 -d = executar em background
 
 -v = mapear um diretorio local dentro do container

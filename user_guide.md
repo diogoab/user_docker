@@ -122,7 +122,7 @@ Executando comandos no container
 
 Agora as coisas legais.
 =======
->>>>>>> d965ab7d6b6335f45e23f30a79bfd7cd9eaa19f7
+>>>>>>> 
 
 O comando # RUN serve para executar comandos dentro do seu container, assim que você criar ele.
 

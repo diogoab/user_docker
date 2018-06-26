@@ -1,4 +1,4 @@
-# User Guide Docker Crosoften 2017
+# User Guide Docker 
 
 Rodando o docker de maneira simples
 
